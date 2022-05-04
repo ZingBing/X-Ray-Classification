@@ -10,6 +10,13 @@ Contributors:
 
 
 # Project Details
+
+- [Exploration of Data](#Exploration)
+- [Preparing of Data](#Preparing)
+- [Shortlist of Models](#Models)
+- [Fine Tuning Models](#Fine-Tuning)
+- [Results](#Results)
+
 This Machine Learning project uses DICOM images as the data, and demonstrates exploration, data processing, Machine Learning Model Selection and our final  results for our model
 
 Our dataset has 22 body part labels, 1738 training images and these images are 256 x 256 pixels.
@@ -41,8 +48,7 @@ Our type of problem was a multiclass, multiouput classification machine learning
     21: 'Wrist'
     
  ```
-- [Exploring](#Exploration)
-- [Preparing](#Preparing)
+
 
 
 # Exploration
@@ -61,7 +67,7 @@ Our type of problem was a multiclass, multiouput classification machine learning
 # Models
 
 
-# Fine-Tuning Model
+# Fine-Tuning
 
 
 # Final-Results
